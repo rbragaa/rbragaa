@@ -30,7 +30,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/rbragaa/rbragaa/output/snake.svg" alt="Snake animation" />
-
-###
